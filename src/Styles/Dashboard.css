@@ -1,0 +1,41 @@
+.myout-cont {
+  width: 100%;
+  height: fit-content;
+}
+
+.quiz-title {
+  font-size: 33px;
+  font-weight: 600;
+  margin-top: 3%;
+}
+
+.myin-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 1.5%;
+}
+
+.img-cont {
+  width: 53%;
+  height: fit-content;
+}
+
+img {
+  width: fit-content;
+  height: fit-content;
+  object-fit: contain;
+  border-radius: 1rem;
+}
+
+.user-info {
+  width: 40%;
+  height: fit-content;
+}
+
+.register {
+  font-size: 25px;
+  font-weight: 600;
+}
